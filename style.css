@@ -1,0 +1,329 @@
+*
+{
+    background-color: aqua;
+}
+#main
+{
+    position: relative;
+    width: 390px;
+    height: 550px;
+    top: 20px;
+    left: 500px;
+    border-radius: 30px 30px 30px 30px;
+    border: 6px solid;
+    align-items: center;
+
+    background-color: rgb(85, 89, 90);
+}
+#sub1{
+    position: relative;
+    width: 320px;
+    height: 50px;
+    top: 20px;
+    border: 6px solid;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 50px;
+    border-radius: 20px 20px 20px 20px;
+    left: 35px;
+    right: 100px;
+    background-color: darkgrey;
+}
+#sec
+{
+    position: relative;
+    width: 330px;
+    height: 400px;
+    border: 4px solid;
+    left: 30px;
+    top: 60px;
+    align-items: center;
+    background-color: rgb(15, 7, 11);
+    border-radius: 30px 30px 30px 30px;
+    
+    
+
+}
+#s1
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: 20px;
+    left: 30px;
+    
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(214, 197, 197);
+    border-radius: 7px 7px 7px 7px;
+}
+#s2
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -20px;
+    left: 100px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    right: 1;
+    background-color: rgb(247, 244, 244);
+    border-radius: 7px 7px 7px 7px;
+}
+#s3
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -60px;
+    left: 170px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    right: 1;
+    background-color: rgb(247, 244, 244);
+    border-radius: 7px 7px 7px 7px;
+}
+#s4
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -100px;
+    left: 270px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    right: 1;
+    background-color: rgb(224, 15, 15);
+    border-radius: 7px 7px 7px 7px;
+}
+#s5
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -60px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    left: 30px;
+    background-color: rgb(247, 244, 244);
+    border-radius: 7px 7px 7px 7px;
+}
+#s6
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -100px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    left: 100px;
+    right: 1;
+    background-color: rgb(247, 244, 244);
+    border-radius: 7px 7px 7px 7px;
+}
+#s7
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -140px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    left: 170px;
+    right: 1;
+    background-color: rgb(247, 244, 244);
+    border-radius: 7px 7px 7px 7px;
+}
+#s8
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -180px;
+    left: 270px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    right: 1;
+    background-color: rgb(204, 17, 17);
+    border-radius: 7px 7px 7px 7px;
+}
+#s9
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -150px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    left: 30px;
+    background-color: rgb(247, 244, 244);
+    border-radius: 7px 7px 7px 7px;
+}
+#s10
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -190px;
+    left: 100px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    right: 1;
+    background-color: rgb(247, 244, 244);
+    border-radius: 7px 7px 7px 7px;
+}
+#s11
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -230px;
+    left: 170px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    right: 1;
+    background-color: rgb(247, 244, 244);
+    border-radius: 7px 7px 7px 7px;
+}
+#s12
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -270px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    left: 270px;
+    right: 1;
+    background-color: rgb(223, 11, 11);
+    border-radius: 7px 7px 7px 7px;
+}
+#s13
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    top: -220px;
+    left: 30px;
+    background-color: rgb(247, 244, 244);
+    border-radius: 7px 7px 7px 7px;
+}
+#s14
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -260px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    left: 100px;
+    right: 1;
+    background-color: rgb(247, 244, 244);
+    border-radius: 7px 7px 7px 7px;
+}
+#s15
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -300px;
+    left: 170px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    right: 1;
+    background-color: rgb(247, 244, 244);
+    border-radius: 7px 7px 7px 7px;
+}
+#s16
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -340px;
+    left: 270px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    right: 1;
+    background-color: rgb(218, 16, 16);
+    border-radius: 7px 7px 7px 7px;
+}
+#s17
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -250px;
+    left: 30px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(71, 192, 11);
+    border-radius: 7px 7px 7px 7px;
+}
+#s17
+{
+    position: relative;
+    width: 110px;
+    height: 40px;
+    top: -290px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    left: 30px;
+    right: 1;
+    background-color: rgb(187, 81, 81);
+    border-radius: 7px 7px 7px 7px;
+}
+#s18
+{
+    position: relative;
+    width: 140px;
+    height: 40px;
+    top: -330px;
+    left: 170px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    right: 1;
+    background-color: rgb(104, 214, 13);
+    border-radius: 7px 7px 7px 7px;
+}
+

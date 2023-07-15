@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main">
+        <input type="text" id="sub1" placeholder="0">
+        <div id="sec">
+            <div id="s1" onclick="get_input(7)">7</div>
+            <div id="s2" onclick="get_input(8)">8</div>
+            <div id="s3" onclick="get_input(9)">9</div>
+            <div id="s4" onclick="get_input('%')">%</div>
+            <div id="s5" onclick="get_input(4)">4</div>
+            <div id="s6" onclick="get_input(5)">5</div>
+            <div id="s7" onclick="get_input(6)">6</div>
+            <div id="s8" onclick="get_input('+')">+</div>
+            <div id="s9" onclick="get_input(1)">1</div>
+            <div id="s10" onclick="get_input(2)">2</div>
+            <div id="s11" onclick="get_input(3)">3</div>
+            <div id="s12" onclick="get_input('-')">-</div>
+            <div id="s13" onclick="del()">back</div>
+            <div id="s14" onclick="get_input(0)">0</div>
+            <div id="s15" onclick="get_input('.')">.</div>
+            <div id="s16" onclick="get_input('*')">*</div>
+            <div id="s17" onclick="clr()">clear</div>
+            <div id="s18" onclick="submit()">=</div>
+        </div>
+    </div>
+    </div>
+    <script defer src="app.js"></script>
+</body>
+</html>
